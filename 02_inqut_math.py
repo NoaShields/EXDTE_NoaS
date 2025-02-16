@@ -7,7 +7,7 @@
 # get input
 
 # ask user for name
-name = input("What is your name? ")
+#name = input("What is your name? ")
 
 # ask user for two numbers
 
@@ -16,8 +16,8 @@ name = input("What is your name? ")
 # multiply numbers together
 
 # greet user and display math
-print('Hello')
-print("Hello", name)
+#print('Hello')
+#print("Hello", name)
 
 # get input
 
@@ -37,4 +37,3 @@ add = num_1 + num_2
 print("Hello", name)
 
 print("{} + {} = {}".format(num_1, num_2, add))
-
