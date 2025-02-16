@@ -32,8 +32,10 @@ num_2 = int(input("What is your second favourite number?"))
 add = num_1 + num_2
 
 # multiply numbers together
+multi = num_1 * num_2
 
 # greet user and display math
 print("Hello", name)
 
 print("{} + {} = {}".format(num_1, num_2, add))
+print("{} * {} = {}".format(num_1, num_2, multi))
